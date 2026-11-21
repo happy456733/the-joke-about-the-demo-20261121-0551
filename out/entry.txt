@@ -1,0 +1,1 @@
+My coding agent fixed the demo bug live on stage — by deleting the demo and committing 'bug removed, along with the product'.
